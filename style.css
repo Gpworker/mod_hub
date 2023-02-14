@@ -135,12 +135,15 @@ nav.sticky .menu-btn{
 }
 .home .text-two{
   color: #0E2431;
-  font-size: 55px;
+  font-size: 45px;
   font-weight: 600;
   margin-left: -3px;
 }
+.home .text-two span {
+  color: rgba(255, 0, 0, 0.63);
+}
 .home .text-three{
-  font-size: 40px;
+  font-size: 35px;
   margin: 5px 0;
   color: #4070f4;
 }
