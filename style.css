@@ -526,4 +526,7 @@ footer .text span a:hover{
     font-size: 16px;
     padding: 5px 10px;
   }
+  .about .right .topic{
+    font-size: 20px;
+  }
 }
